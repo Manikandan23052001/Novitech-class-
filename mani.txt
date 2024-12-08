@@ -1,2 +1,0 @@
-user=manikandan
-pass=12345
