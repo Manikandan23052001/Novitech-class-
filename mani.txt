@@ -1,2 +1,3 @@
 user=manikandan
 pass=12345
+welcome to great karikalan magic show!!
